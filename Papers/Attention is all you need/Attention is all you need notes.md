@@ -112,7 +112,9 @@
 
 总之，这段话是在描述变压器（Transformer）模型的主要架构，强调了其在编码器和解码器部分都采用了自注意力层的堆叠和逐点全连接层的特点。
 
-![image-20240217115846661](C:\Users\xujia\OneDrive\Desktop\github\LLM\Papers\Attention is all you need\assets\image-20240217115846661.png)
+![image-20240217120532810](assets/image-20240217120532810.png)
+
+
 
 
 
